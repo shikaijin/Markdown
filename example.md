@@ -18,7 +18,7 @@
   - Chengyue: improve Sign In page
   - Ji: Contact Us page
   - Zeng, Shen, Mike: GraphQL testing
-  - Zoe: add footer and edit home intro Assign tasks to each person for the next week
+  - Zoe: add footer and edit home intro
 
 - Assign tasks to each person for the next week
 
