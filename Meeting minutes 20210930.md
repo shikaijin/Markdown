@@ -5,7 +5,7 @@
 | Created by:       | Zoe                                                                  |
 | Date:             | September 29, 2021                                                   |
 | Leave of Absence: | Changye, Pan                                                         |
-| Participants:     | Zoe,  Chengyue, Fanyu, Shen, Xiaolu, Xinyu, Yanhao             |
+| Participants:     | Zoe,  Chengyue, Fanyu, Shen, Xiaolu, Xinyu, Yanhao                   |
 | Type:             | Meeting minutes                                                      |
 
 ---
@@ -31,5 +31,5 @@
 
 [] Fanyu: continue working on marketplace pages
 
-[] Zoe: design uwcssa memners os pages
+[] Zoe: design uwcssa members os pages
 
