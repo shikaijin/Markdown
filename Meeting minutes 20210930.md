@@ -25,11 +25,11 @@
 
 ## Action Items
 
-[] Wang: self-learning JS
+ - [ ]  Wang: self-learning JS
+ 
+- [ ]  Ji: continue working on forum pages
+ 
+ - [ ]  Fanyu: continue working on marketplace pages
 
-[] Ji: continue working on forum pages
-
-[] Fanyu: continue working on marketplace pages
-
-[] Zoe: design uwcssa members os pages
+ - [ ]  Zoe: design uwcssa members os pages
 
